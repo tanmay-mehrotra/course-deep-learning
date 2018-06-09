@@ -9,7 +9,7 @@ Apart from filters I have also used pooling(max/avg) layers which also helps in 
 
 This quora article does a great job in explaining pooling : https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks
 
-##Contents
+## Contents
 There are two notebooks in this weeks assignments:
 1.  I implemented feed forward pass for the CNN on my own (without aid od any library). Primary purpose of this assignment is to get well versed with convolution operation.
 2. Used Tensor flow library to create a Neural network for correctly detecting images present in SIGNS (numbers 1-5 represented as images of hand signs)dataset.
